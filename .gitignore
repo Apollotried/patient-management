@@ -1,0 +1,24 @@
+# IDE specific files
+.idea/
+*.iml
+*.ipr
+*.iws
+.settings/
+.project
+.classpath
+.factorypath
+
+# Build output
+target/
+bin/
+build/
+
+# Logs
+*.log
+
+# Other
+*.swp
+*.swo
+*.bak
+*.orig
+*.DS_Store
