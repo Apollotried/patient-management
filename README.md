@@ -10,14 +10,6 @@
 ## Table of Contents
 1. [System Overview](#system-overview)
 2. [Architecture](#architecture)
-3. [Development Timeline](#development-timeline)
-4. [Services Breakdown](#services-breakdown)
-5. [Local Setup](#local-setup)
-6. [API Documentation](#api-documentation)
-7. [Communication Flows](#communication-flows)
-8. [AWS Deployment](#aws-deployment)
-9. [Testing Strategy](#testing-strategy)
-10. [Troubleshooting](#troubleshooting)
 
 ## System Overview
 A complete patient management platform featuring:
@@ -29,3 +21,4 @@ A complete patient management platform featuring:
 - AWS infrastructure with LocalStack emulation
 
 ## Architecture
+<img width="1585" height="850" alt="image" src="https://github.com/user-attachments/assets/911cefaf-ef1b-412f-adb2-8c9b399314ca" />
