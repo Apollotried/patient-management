@@ -9,14 +9,6 @@
 ![AWS CDK](https://img.shields.io/badge/infrastructure-AWS_CDK-ff69b4)
 ![LocalStack](https://img.shields.io/badge/testing-LocalStack-yellow)
 
-## Table of Contents
-1. [System Overview](#system-overview)
-2. [Architecture](#architecture)
-3. [AWS Infrastructure](#aws-infrastructure)
-4. [Infrastructure as Code (IaC)](#infrastructure-as-code-iac)
-5. [Services Overview](#services-overview)
-6. [Local Development with LocalStack](#local-development-with-localstack)
-7. [Deployment](#deployment)
 
 ## System Overview
 A complete patient management platform featuring:
